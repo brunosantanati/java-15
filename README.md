@@ -2,7 +2,7 @@
 
 ## Useful Links
 
-### Podcast and JEPs Links
+### Podcast Link and JEPs it talks about
 
 Spotify - Inside Java - [Podcast Episode "Java 15 is Here!" with Mikael Vidstedt](https://open.spotify.com/episode/10SYJ0sOwTctJOS74hqjEm)  
 [JEP 360](https://openjdk.org/jeps/360) - Sealed Classes (Preview)  
